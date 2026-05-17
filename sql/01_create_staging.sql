@@ -30,3 +30,4 @@ CREATE TABLE IF NOT EXISTS customer_staging (
     z_revenue             TEXT
 );  
 
+ 
