@@ -16,22 +16,6 @@ the insights in Power BI.
 
 ---
 
-## 🗂️ Project Structure
-
-sql-data-cleaning-project/
-│
-├── sql/
-│ ├── 01_create_staging.sql # Create raw staging table
-│ ├── 02_check_import.sql # Verify data loaded correctly
-│ ├── 03_data_cleaning.sql # Clean and transform data
-│ └── 04_analysis.sql # Business analysis queries
-│
-├── screenshots/ # Query results & dashboard
-├── .gitignore
-└── README.md
-
----
-
 ## 🔧 Data Cleaning Steps
 
 - Imported raw CSV into a TEXT-based staging table
